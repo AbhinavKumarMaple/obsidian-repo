@@ -11,8 +11,10 @@
             "id": "062c10afc01ea8a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "product API and body..pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "product API and body..pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "product API and body..pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "product API and body..pdf"
+              }
             }
           }
         ]
@@ -139,5 +145,7 @@
     }
   },
   "active": "062c10afc01ea8a5",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "inbenne  bendorshop backend doc.pdf"
+  ]
 }
