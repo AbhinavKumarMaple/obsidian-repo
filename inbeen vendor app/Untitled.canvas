@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"file","file":"indeeb vendorshop app/backend/product API and body..md","id":"e8d3cf4586022139","x":-280,"y":-20,"width":400,"height":400},
+		{"type":"file","file":"indeeb vendorshop app/backend/User API and Body.md","id":"1cc9dbbc598752d1","x":-280,"y":460,"width":400,"height":400},
+		{"type":"file","file":"indeeb vendorshop app/backend/Inbeen bendorshop backend doc.md","id":"78af42300b020022","x":-940,"y":220,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"0dbe785b3af3d7ef","fromNode":"78af42300b020022","fromSide":"right","toNode":"e8d3cf4586022139","toSide":"left"},
+		{"id":"2d9b19ae73246d7c","fromNode":"78af42300b020022","fromSide":"right","toNode":"1cc9dbbc598752d1","toSide":"left"}
+	]
+}
